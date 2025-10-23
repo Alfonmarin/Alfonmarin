@@ -1,5 +1,5 @@
 
-<h1 align="center"><span style="color:#3A8DFF">Alfonso Marín</span></h1>
+<h1 align="center" style="color:#3A8DFF; border-bottom:none;">Alfonso Marín</h1>
 
 <p align="center">
   <i>Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas operativos.</i>
