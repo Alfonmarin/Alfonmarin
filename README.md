@@ -35,7 +35,7 @@
 ## 📘 Mis proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/Alfonmarin/aplicacion-tenis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=aplicacion-tenis&theme=react&bg_color=ffffd1&title_color=3E7A41&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="aplicacion-tenis"></a>
+  <a href="https://github.com/Alfonmarin/aplicacion-tenis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=aplicacion-tenis&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="aplicacion-tenis"></a>
   <a href="https://github.com/Alfonmarin/metro-lyon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=metro-lyon&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="metro-lyon"></a>
   <a href="https://github.com/Alfonmarin/minishell"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=minishell&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="minishell"></a>
   <a href="https://github.com/Alfonmarin/procesador-de-lenguajes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=procesador-de-lenguajes&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="procesador-de-lenguajes"></a>
