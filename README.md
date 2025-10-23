@@ -14,10 +14,6 @@
   <i>Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas operativos.</i>
 </p>
 
----
-
-### 🌐 Conecta conmigo
-
 <p align="center">
   <a href="https://github.com/Alfonmarin/Alfonmarin"><img width="36px" alt="GitHub" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;
@@ -35,13 +31,14 @@
 ## 📘 Mis proyectos destacados
 
 <p align="center">
-  <a href="https://github.com/Alfonmarin/aplicacion-tenis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=aplicacion-tenis&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="aplicacion-tenis"></a>
-  <a href="https://github.com/Alfonmarin/metro-lyon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=metro-lyon&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="metro-lyon"></a>
-  <a href="https://github.com/Alfonmarin/minishell"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=minishell&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="minishell"></a>
-  <a href="https://github.com/Alfonmarin/procesador-de-lenguajes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=procesador-de-lenguajes&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="procesador-de-lenguajes"></a>
-  <a href="https://github.com/Alfonmarin/buscador-peliculas-clima"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=buscador-peliculas-clima&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="buscador-peliculas-clima"></a>
-  <a href="https://github.com/Alfonmarin/proyecto-instalacion-informatica-cpd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=proyecto-instalacion-informatica-cpd&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="proyecto-instalacion-informatica-cpd"></a>
-  <a href="https://github.com/Alfonmarin/Curso2025-2026"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=Curso2025-2026&theme=react&bg_color=1F222E&title_color=3A8DFF&hide_border=true&icon_color=F8D866&show_icons=false" alt="Curso2025-2026"></a>
+<a href="https://github.com/Alfonmarin/aplicacion-tenis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=aplicacion-tenis&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="aplicacion-tenis"></a>
+<a href="https://github.com/Alfonmarin/metro-lyon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=metro-lyon&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="metro-lyon"></a>
+<a href="https://github.com/Alfonmarin/minishell"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=minishell&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="minishell"></a>
+<a href="https://github.com/Alfonmarin/procesador-de-lenguajes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=procesador-de-lenguajes&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="procesador-de-lenguajes"></a>
+<a href="https://github.com/Alfonmarin/buscador-peliculas-clima"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=buscador-peliculas-clima&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="buscador-peliculas-clima"></a>
+<a href="https://github.com/Alfonmarin/proyecto-instalacion-informatica-cpd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=proyecto-instalacion-informatica-cpd&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="proyecto-instalacion-informatica-cpd"></a>
+<a href="https://github.com/Alfonmarin/Curso2025-2026"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=Curso2025-2026&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="Curso2025-2026"></a>
+
 </p>
 
 ---
