@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" width="120" alt="profile logo"/>
-</p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#3A8DFF">Alfonso Marín</span></h1>
 
