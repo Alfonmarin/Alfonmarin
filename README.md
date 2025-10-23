@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github.com/Alfonmarin/Alfonmarin">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Estudiante%20de%20Ingeniería%20Informática.&font=Fira%20Code&center=true&width=440&height=45&color=3A8DFF&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
