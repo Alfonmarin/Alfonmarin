@@ -1,9 +1,9 @@
-
 <p align="center">
-  <span style="font-size:2.3em; font-weight:700; color:#3A8DFF; display:inline-block; margin-bottom:0;">
+  <span style="font-size:2.8em; font-weight:800; color:#3A8DFF; display:inline-block; margin-bottom:0;">
     Alfonso Marín
   </span>
 </p>
+
 
 
 <p align="center">
