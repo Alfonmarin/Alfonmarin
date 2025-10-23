@@ -1,9 +1,6 @@
-<p align="center" style="font-size:38px; font-weight:800; color:#3A8DFF; margin-bottom:0;">
-  Alfonso Marín
-</p>
-
-
-
+<h1 align="center" style="border:none;">
+  <strong style="color:#3A8DFF; font-size:1.8em;">Alfonso Marín</strong>
+</h1>
 
 <p align="center">
   <i>Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas operativos.</i>
