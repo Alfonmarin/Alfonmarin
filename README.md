@@ -8,15 +8,25 @@
 
 
 <p align="center">
-  <a href="https://github.com/Alfonmarin/Alfonmarin"><img width="36px" alt="GitHub" src="https://i.imgur.com/AixJgnm.png"/></a>
+  <a href="https://github.com/Alfonmarin/Alfonmarin">
+    <img width="36px" alt="GitHub" src="./assets/github.png"/>
+  </a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/alfon-marín-478b96386/"><img width="36px" alt="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/alfon-marín-478b96386/">
+    <img width="36px" alt="LinkedIn" src="./assets/linkedin.png"/>
+  </a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@alfonmarin6691"><img width="36px" alt="YouTube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@alfonmarin6691">
+    <img width="36px" alt="YouTube" src="./assets/youtube.png"/>
+  </a>
   &#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/share/1AD7RvfZRv/?mibextid=wwXIfr"><img width="36px" alt="Facebook" src="https://i.imgur.com/kLpt1Pn.png"/></a>
+  <a href="https://www.facebook.com/share/1AD7RvfZRv/?mibextid=wwXIfr">
+    <img width="36px" alt="Facebook" src="./assets/facebook.png"/>
+  </a>
   &#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/alfon10marin"><img width="36px" alt="Discord" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/users/alfon10marin">
+    <img width="36px" alt="Discord" src="./assets/discord.png"/>
+  </a>
 </p>
 
 ---
