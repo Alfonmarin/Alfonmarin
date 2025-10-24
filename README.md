@@ -46,22 +46,6 @@
 
 </p>
 
----
-
-### 🧩 Breve descripción de los proyectos
-
-| Proyecto | Descripción |
-|-----------|-------------|
-| 🎾 **Aplicación de Tenis** | Aplicación Flutter para gestionar partidos, torneos y estadísticas de tenis. |
-| 🚇 **Metro Lyon – IA** | Planificador de rutas óptimas con el algoritmo **A\*** y GUI en Python. |
-| 🐚 **Minishell (C)** | Intérprete de comandos Unix en **C** con tuberías, redirecciones y comandos internos. |
-| 🧠 **Procesador de Lenguajes** | Analizador **léxico, sintáctico y semántico en Java**, con detección de errores y tabla de símbolos. |
-| 🎬 **Recomendador de Películas Inteligente** | Sistema multiagente en **Java (JADE)** que recomienda películas según el clima actual. |
-| 🖥️ **CPD – VEX Data Center** | Diseño completo de un **Centro de Procesamiento de Datos Tier III**, con cálculo térmico y eléctrico. |
-| 📚 **Curso 2025–2026** | Repositorio de proyectos y prácticas del último curso del grado. |
-
----
-
 <p align="center">
   <i>✨ Gracias por visitar mi perfil. ¡Explora mis repositorios y proyectos! ✨</i>
 </p>
