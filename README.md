@@ -1,6 +1,7 @@
-<h1 align="center" style="border:none;">
-  <strong style="color:#3A8DFF; font-size:1.8em;">Alfonso Marín</strong>
-</h1>
+<p align="center">
+  <img src="./assets/nombre.png" alt="Alfonso Marín" width="900"/>
+</p>
+
 
 <p align="center">
   <img src="./assets/typing.gif" alt="Typing animation" width="450"/>
