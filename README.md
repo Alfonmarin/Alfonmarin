@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <i>Apasionado por el desarrollo de software, la inteligencia artificial y los sistemas operativos.</i>
+  <img src="./assets/typing.gif" alt="Typing animation" width="450"/>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/Alfonmarin/Alfonmarin"><img width="36px" alt="GitHub" src="https://i.imgur.com/AixJgnm.png"/></a>
