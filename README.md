@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/nombre.png" alt="Alfonso Marín" width="900"/>
+  <img src="./assets/nombre.png" alt="Alfonso Marín" width="500"/>
 </p>
 
 
