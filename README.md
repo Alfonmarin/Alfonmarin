@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./assets/typing.gif" alt="Typing animation" width="450"/>
+  <img src="./assets/typingg.gif" alt="Typing animation" width="450"/>
 </p>
 
 
