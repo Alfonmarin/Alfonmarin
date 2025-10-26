@@ -33,18 +33,42 @@
 
 ---
 
-## 📘 Mis proyectos destacados
+## 🤖 Proyectos de Inteligencia Artificial, Datos y Web Semántica
+
+<p align="center">
+<a href="https://github.com/Alfonmarin/metro-lyon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=metro-lyon&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="metro-lyon"></a>
+<a href="https://github.com/Alfonmarin/Curso2025-2026"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=Curso2025-2026&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="Curso2025-2026"></a>
+<a href="https://github.com/Alfonmarin/buscador-peliculas-clima"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=buscador-peliculas-clima&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="buscador-peliculas-clima"></a>
+</p>
+
+
+---
+
+## 💻 Proyectos de Desarrollo de Software
 
 <p align="center">
 <a href="https://github.com/Alfonmarin/aplicacion-tenis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=aplicacion-tenis&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="aplicacion-tenis"></a>
-<a href="https://github.com/Alfonmarin/metro-lyon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=metro-lyon&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="metro-lyon"></a>
+<a href="https://github.com/Alfonmarin/sos-restful-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=sos-restful-biblioteca&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="sos-restful-biblioteca"></a>
+<a href="https://github.com/Alfonmarin/sos-soap-biblioteca"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=sos-soap-biblioteca&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="sos-soap-biblioteca"></a>
 <a href="https://github.com/Alfonmarin/minishell"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=minishell&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="minishell"></a>
 <a href="https://github.com/Alfonmarin/procesador-de-lenguajes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=procesador-de-lenguajes&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="procesador-de-lenguajes"></a>
-<a href="https://github.com/Alfonmarin/buscador-peliculas-clima"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=buscador-peliculas-clima&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="buscador-peliculas-clima"></a>
-<a href="https://github.com/Alfonmarin/proyecto-instalacion-informatica-cpd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=proyecto-instalacion-informatica-cpd&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="proyecto-instalacion-informatica-cpd"></a>
-<a href="https://github.com/Alfonmarin/Curso2025-2026"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=Curso2025-2026&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="Curso2025-2026"></a>
+<a href="https://github.com/Alfonmarin/wordle-c-bash"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=wordle-c-bash&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="wordle-c-bash"></a>
 
 </p>
+
+---
+
+## 🧱 Proyectos de Infraestructura y Arquitectura de Computadores
+
+<p align="center">
+<a href="https://github.com/Alfonmarin/cisco-network-simulation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=cisco-network-simulation&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="cisco-network-simulation"></a>
+<a href="https://github.com/Alfonmarin/proyecto-instalacion-informatica-cpd"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=proyecto-instalacion-informatica-cpd&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="proyecto-instalacion-informatica-cpd"></a>
+<a href="https://github.com/Alfonmarin/arquitectura-computadores-io-68000"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=arquitectura-computadores-io-68000&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="arquitectura-computadores-io-68000"></a>
+<a href="https://github.com/Alfonmarin/estructura-computadores-compresor-88110"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Alfonmarin&repo=estructura-computadores-compresor-88110&theme=react&bg_color=ffffd1&title_color=386e1a&text_color=3F3F3F&icon_color=1B8B6A&hide_border=true&show_icons=false" alt="estructura-computadores-compresor-88110"></a>
+
+</p>
+
+---
 
 <p align="center">
   <i>✨ Gracias por visitar mi perfil. ¡Explora mis repositorios y proyectos! ✨</i>
